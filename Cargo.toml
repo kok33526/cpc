@@ -11,3 +11,4 @@ description = "Text calculator with support for units and conversion"
 # clarify the control flow
 # handle the edge case from the last release
 # clarify the control flow
+# guard against empty input
